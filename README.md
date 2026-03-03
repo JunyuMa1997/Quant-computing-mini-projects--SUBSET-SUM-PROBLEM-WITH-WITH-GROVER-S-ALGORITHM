@@ -100,3 +100,11 @@ Because Grover is probabilistic, the solver:
 - Uses multiple iteration attempts
 - Uses multiple shots per attempt
 - Verifies classically before accepting
+
+The sturcture of the files:
+The construction start with QFT and MCX construction.ipynb for enviroment preparation and construction of QFT and MCX
+qubit operation and oracle construction.ipynb contains the functions for oracle construction
+Then construct diffuser and Grover algorithm in diffuser and grover algorithm.ipynb
+result report function and simple test.ipynb is for the result translation
+benchmark.ipynb is the code for final benchmark
+All the result is contained in total codes for project.ipynb
