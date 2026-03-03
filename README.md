@@ -102,9 +102,9 @@ Because Grover is probabilistic, the solver:
 - Verifies classically before accepting
 
 The sturcture of the files:
--1.The construction start with QFT and MCX construction.ipynb for enviroment preparation and construction of QFT and MCX
--2.qubit operation and oracle construction.ipynb contains the functions for oracle construction
--3.Then construct diffuser and Grover algorithm in diffuser and grover algorithm.ipynb
--4.result report function and simple test.ipynb is for the result translation
--5.benchmark.ipynb is the code for final benchmark
--6.All the result is contained in total codes for project.ipynb
+-1.The construction start with QFT and MCX construction.ipynb for enviroment preparation and construction of QFT and MCX  
+-2.qubit operation and oracle construction.ipynb contains the functions for oracle construction  
+-3.Then construct diffuser and Grover algorithm in diffuser and grover algorithm.ipynb  
+-4.result report function and simple test.ipynb is for the result translation  
+-5.benchmark.ipynb is the code for final benchmark  
+-6.All the result is contained in total codes for project.ipynb  
